@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+*{
+	background-color: yellow;
+}
+
+div{
+	text-align: center;
+}
